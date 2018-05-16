@@ -6,7 +6,7 @@ navbar-nav {
  }
  .parallax {
     /* The image used */
-    background-image: url("images/parallax.png");
+    background-image: url("https://pbp1995.github.io/MJT/Exhibits/images/Parallax-3.png");
 
     /* Set a specific height */
     min-height: 450px; 
@@ -66,7 +66,7 @@ navbar-nav {
 
 .parallax-2 {
     /* The image used */
-    background-image: url("images/Parallax-2.png");
+    background-image: url("https://pbp1995.github.io/MJT/Exhibits/images/Parallax-2.png");
 
     /* Set a specific height */
     min-height: 450px; 
@@ -80,7 +80,7 @@ navbar-nav {
 
 .parallax-3 {
     /* The image used */
-    background-image: src="images/Parallax-3.png" alt="Mountain View";
+    background-image: url("https://pbp1995.github.io/MJT/Exhibits/images/Parallax-3.png");
 
     /* Set a specific height */
     min-height: 450px; 
