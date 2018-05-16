@@ -100,3 +100,11 @@ ul {
     background-color: #212529;
     color: white;
 }
+
+.col-sm-4{
+    margin-top: 70px;
+}
+
+.col-md-4{
+    margin-top: 5px;
+}
