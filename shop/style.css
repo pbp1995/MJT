@@ -1,0 +1,29 @@
+.navbar-nav > li {
+    float:none;
+    display:table-cell;
+    text-align:center;
+ }
+ 
+ .nav-item {
+    font-size: 20px;
+    font-family: 'Libre Baskerville', serif;
+    padding-right: 45px;
+    padding-left: 45px;
+ }
+ 
+ .navbar-brand {
+    font-size: 20px;
+    font-family: 'Libre Baskerville', serif;
+ }
+ 
+ .dropdown-menu {
+    background-color: #212529 ;
+ }
+ 
+ .dropdown-item{
+    color:#ffff ;
+ }
+
+ul{
+    list-style-type: none;
+}
