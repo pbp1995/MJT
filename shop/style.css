@@ -1,3 +1,6 @@
+body{
+    background-image: url(background-shop.png);
+}
 
 navbar-nav {
     display: inline-block;
@@ -112,4 +115,12 @@ ul {
 
 .col-md-4{
     margin-top: 25px;
+}
+
+.card-text-2{
+    color: black;
+}
+
+h5{
+    color: black;  
 }
